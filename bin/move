@@ -2,8 +2,8 @@
 
 require_relative '../lib/move.rb'
 
-boardd = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-display_board(boardd)
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+display_board(board)
 puts "Welcome to Tic Tac Toe!"
 
 
