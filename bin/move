@@ -7,6 +7,7 @@ puts "Welcome to Tic Tac Toe!"
 board = [" "," "," "," "," "," "," "," "," "]
 
 puts "Where would you like to go?"
+
 input = gets.strip
 index = input_to_ndex(input)
 move1 = move(board, index)
