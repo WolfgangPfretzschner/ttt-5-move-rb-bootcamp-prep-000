@@ -14,5 +14,6 @@ end
 
 def move(board_array, index, value = "X")
   board_array[index] = value
+  return board_array
 end
 
