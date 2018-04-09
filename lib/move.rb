@@ -16,4 +16,3 @@ def move()
 
 end
 
-def 
